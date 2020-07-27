@@ -1,17 +1,21 @@
 # 100_python_exercise
 
 ## Background
-Found this github repo and would like to leverage this execerise to startWould like to levearge this repo to learn python when 
+  Found this github repo and would like to leverage this execise to start learning solving python in a daily basis
+  (https://github.com/darkprinx/100-plus-Python-programming-exercises-extended) 
 --
 ## Introduction 
---
-### Installing
---
-> Question 1
-  Write a program which will find all such numbers 
-    which are divisible by 7 but are not a multiple of 5, 
-    between 2000 and 3200 (both included).
-    The numbers obtained should be printed in a comma-separated 
-    sequence on a single line.
+
+# 100 Python Challengin programming exercrises
+
+## 1 Problem Template
+
+* ***Questions***
+* ***Hints***
+* ***Solutions***
+
+## 2 Practice Status
+* ** [Day 1](https://) ** 
+
 
 ---
